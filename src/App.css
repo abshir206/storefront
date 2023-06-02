@@ -1,0 +1,17 @@
+* {
+  text-decoration: none;
+}
+
+#header-container {
+  background-color:#F4F7F5;
+  margin: 0 auto 2rem auto;
+  padding: 1rem auto;
+}
+
+#categories-container {
+  padding: 2rem auto
+}
+
+.center {
+  margin: 0 auto;
+}
